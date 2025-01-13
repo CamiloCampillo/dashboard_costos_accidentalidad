@@ -8,11 +8,16 @@ Este proyecto ofrece un análisis detallado de los costos de la atención hospit
 
 [![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)](https://app.powerbi.com/view?r=eyJrIjoiY2UyMDNkNDktMzQxNS00ZjRlLTliN2ItMmQxNTg4YjYxYjA4IiwidCI6ImZkNjljZTFiLTIwYzYtNDJlYy1iNTRlLTZkMWIzODcwYWM2ZSIsImMiOjR9)
 
+## 💾 Dataset
+
+La información fue extraída de **Datos Abiertos**. Puedes consultar la información en:
+
+https://www.datos.gov.co/Salud-y-Protecci-n-Social/Costos-de-la-atenci-n-hospitalaria-en-Bucaramanga-/g4vd-w4ip/about_data
+
 ## 📝 Resumen General
 
 El proyecto sobre los costos hospitalarios de atención a los accidentados en Bucaramanga ofrece un análisis detallado y crítico del impacto económico de los siniestros de tránsito en la atención médica. Utilizando datos recopilados de diversas fuentes, este estudio proporciona información valiosa para mejorar la gestión de recursos en el sector salud.
  
-
 ## 📍Características Principales:
 
 - **Desbloqueo de Información:** Este análisis permite a los tomadores de decisiones acceder a información clave sobre los costos asociados a los de atención hospitalaria, proporcionando una base sólida para la formulación de políticas y estrategias en el ámbito de la salud.
