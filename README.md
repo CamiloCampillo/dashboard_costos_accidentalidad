@@ -30,7 +30,7 @@ El proyecto sobre los costos hospitalarios de atención a los accidentados en Bu
 
 ## 🎯 Insights
 
-| Regumen General |
+| Resumen General |
 |-------------|
 | ![resumen_general](Imágenes/resumen_general.png) | 
 | Esta sección proporciona un resumen conciso pero completo de ideas y hallazgos clave derivados del análisis de los costos hospitalarios de los accidentes de la ciudad de Bucaramanga entre 2016 y 2021 |
