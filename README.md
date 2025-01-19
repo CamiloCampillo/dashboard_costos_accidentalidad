@@ -68,7 +68,7 @@ Este proyecto subraya la importancia del análisis de datos en el ámbito de la 
 
 Si tienes comentarios y/o sugerencias me puedes escribir al correo electrónico:
 
-camilocampillo@gmail.com
+camilocampillo07@gmail.com
 
 Visita mi perfil de linkedIn
 
